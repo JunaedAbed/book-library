@@ -134,5 +134,5 @@ document.querySelector('#book-list').addEventListener('click', (e)=> {
     //show success msg
     UI.showAlert('Book Removed', 'info');
     //done here completed
-    //
+    //this project is a tutorial
 });
